@@ -1,0 +1,19 @@
+body{
+    background: rgb(24, 24, 24);
+}
+#num{
+    width: 200px;
+    height: 22px;
+    border-radius: 3px;
+    outline:none;
+    border:none;
+}
+#cal{
+    border: none;
+    width: 100px;
+    height: 20px;
+    border-radius: 3px;
+}
+#otpt{
+    color: white;
+}
